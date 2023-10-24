@@ -1,4 +1,4 @@
-# FCUP-SP 22/23
+# FCUP-SP 2022/2023
 
 ## Summary
 
