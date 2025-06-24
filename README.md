@@ -1,8 +1,8 @@
-# FCUP-SP 2022/2023
+# FCUP-SP
 
 ## Summary
 
-Solutions for the Logbooks, Weekly CTFs and Challenge CTFs.
+Solutions for the Logbooks, Weekly CTFs and Challenge CTFs of 2022/2023 edition of Security and Privacy course.
 
 ## Grades
 
