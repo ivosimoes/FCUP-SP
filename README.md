@@ -2,7 +2,7 @@
 
 ## Summary
 
-Logbooks for Weekly CTFs and Challenge CTFs of 2022/2023 edition of Security and Privacy course.
+Logbooks, Weekly CTFs and Challenge CTFs of 2022/2023 edition of Security and Privacy course.
 
 ## Grades
 
